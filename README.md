@@ -1,1 +1,1 @@
-# -Codechef_MAY_21_LONG_CHALLENGE-
+# Codechef_MAY_21_LONG_CHALLENGE
